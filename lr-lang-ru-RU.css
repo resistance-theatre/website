@@ -1,0 +1,106 @@
+.l10n-ru-RU {
+					--l10n-locale-name: 'ru-RU';
+					--l10n-upload-file: 'загрузить файл';
+					--l10n-upload-files: 'загрузить файлы';
+					--l10n-choose-file: 'выбрать файл';
+					--l10n-choose-files: 'выбрать файлы';
+					--l10n-drop-files-here: 'перетащите файлы сюда';
+					--l10n-select-file-source: 'выбрать источник файла';
+					--l10n-selected: 'выбрано';
+					--l10n-upload: 'загрузить';
+					--l10n-add-more: 'добавить еще';
+					--l10n-cancel: 'отмена';
+					--l10n-start-from-cancel: var(--l10n-cancel);
+					--l10n-clear: 'очистить';
+					--l10n-camera-shot: 'снимок';
+					--l10n-upload-url: 'импорт';
+					--l10n-upload-url-placeholder: 'вставьте ссылку сюда';
+					--l10n-edit-image: 'редактировать изображение';
+					--l10n-edit-detail: 'детали';
+					--l10n-back: 'назад';
+					--l10n-done: 'готово';
+					--l10n-ok: 'ок';
+					--l10n-remove-from-list: 'удалить';
+					--l10n-no: 'нет';
+					--l10n-yes: 'да';
+					--l10n-confirm-your-action: 'подтвердите ваше действие';
+					--l10n-are-you-sure: 'вы уверены?';
+					--l10n-selected-count: 'выбрано:';
+					--l10n-upload-error: 'ошибка загрузки';
+					--l10n-validation-error: 'ошибка проверки';
+					--l10n-no-files: 'файлы не выбраны';
+					--l10n-browse: 'обзор';
+					--l10n-not-uploaded-yet: 'еще не загружено...';
+					--l10n-file__one: 'файл';
+					--l10n-file__other: 'файлы';
+					--l10n-error__one: 'ошибка';
+					--l10n-error__other: 'ошибки';
+					--l10n-header-uploading: 'загрузка {{count}} {{plural:file(count)}}';
+					--l10n-header-failed: '{{count}} {{plural:error(count)}}';
+					--l10n-header-succeed: 'загружено {{count}} {{plural:file(count)}}';
+					--l10n-header-total: 'выбрано {{count}} {{plural:file(count)}}';
+
+					--l10n-src-type-local: 'с устройства';
+					--l10n-src-type-from-url: 'из ссылки';
+					--l10n-src-type-camera: 'камера';
+					--l10n-src-type-draw: 'рисовать';
+					--l10n-src-type-facebook: 'facebook';
+					--l10n-src-type-dropbox: 'dropbox';
+					--l10n-src-type-gdrive: 'google drive';
+					--l10n-src-type-gphotos: 'google photos';
+					--l10n-src-type-instagram: 'instagram';
+					--l10n-src-type-flickr: 'flickr';
+					--l10n-src-type-vk: 'vk';
+					--l10n-src-type-evernote: 'evernote';
+					--l10n-src-type-box: 'box';
+					--l10n-src-type-onedrive: 'onedrive';
+					--l10n-src-type-huddle: 'huddle';
+					--l10n-src-type-other: 'другое';
+
+				--l10n-src-type: var(--l10n-src-type-local);
+
+				--l10n-caption-from-url: 'импортировать из ссылки';
+				--l10n-caption-camera: 'камера';
+				--l10n-caption-draw: 'рисование';
+				--l10n-caption-edit-file: 'редактировать файл';
+
+				--l10n-file-no-name: 'без имени...';
+
+				--l10n-toggle-fullscreen: 'переключить полноэкранный режим';
+				--l10n-toggle-guides: 'переключить направляющие';
+				--l10n-rotate: 'повернуть';
+				--l10n-flip-vertical: 'отразить по вертикали';
+				--l10n-flip-horizontal: 'отразить по горизонтали';
+				--l10n-brightness: 'яркость';
+				--l10n-contrast: 'контрастность';
+				--l10n-saturation: 'насыщенность';
+				--l10n-resize: 'изменить размер изображения';
+				--l10n-crop: 'обрезать';
+				--l10n-select-color: 'выбрать цвет';
+				--l10n-text: 'текст';
+				--l10n-draw: 'рисовать';
+				--l10n-cancel-edit: 'отменить редактирование';
+
+				--l10n-tab-view: 'просмотр';
+				--l10n-tab-details: 'детали';
+
+				--l10n-file-name: 'имя';
+				--l10n-file-size: 'размер';
+				--l10n-cdn-url: 'url cdn';
+				--l10n-file-size-unknown: 'неизвестно';
+
+				--l10n-camera-permissions-denied: 'отказано в доступе к камере';
+				--l10n-camera-permissions-prompt: 'пожалуйста, разрешите доступ к камере';
+				--l10n-camera-permissions-request: 'запросить доступ';
+
+				--l10n-files-count-limit-error-title: 'превышено ограничение по количеству файлов';
+				--l10n-files-count-limit-error-too-few: 'вы выбрали {{total}} {{plural:file(total)}}. требуется как минимум {{min}} {{plural:file(min)}}.';
+				--l10n-files-count-limit-error-too-many: 'вы выбрали слишком много файлов. максимально {{max}} {{plural:file(max)}}.';
+
+				--l10n-files-max-size-limit-error: 'файл слишком большой. максимальный размер файла: {{maxFileSize}}.';
+				--l10n-has-validation-errors: 'произошла ошибка проверки файла. пожалуйста, проверьте ваши файлы перед загрузкой.';
+				--l10n-images-only-accepted: 'принимаются только изображения.';
+				--l10n-file-type-not-allowed: 'загрузка этих типов файлов не разрешена.';
+
+				--l10n-some-files-were-not-uploaded: 'некоторые файлы не были загружены.';
+        }
