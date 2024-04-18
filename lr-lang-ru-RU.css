@@ -94,8 +94,8 @@
 				--l10n-camera-permissions-request: 'запросить доступ';
 
 				--l10n-files-count-limit-error-title: 'превышено ограничение по количеству файлов';
-				--l10n-files-count-limit-error-too-few: 'вы выбрали {{total}} {{plural:file(total)}}. требуется как минимум {{min}} {{plural:file(min)}}.';
-				--l10n-files-count-limit-error-too-many: 'вы выбрали слишком много файлов. максимально {{max}} {{plural:file(max)}}.';
+				--l10n-files-count-limit-error-too-few: 'вы выбрали {{total}} файлов. требуется как минимум {{min}}.';
+				--l10n-files-count-limit-error-too-many: 'вы выбрали слишком много файлов. максимально {{max}}.';
 
 				--l10n-files-max-size-limit-error: 'файл слишком большой. максимальный размер файла: {{maxFileSize}}.';
 				--l10n-has-validation-errors: 'произошла ошибка проверки файла. пожалуйста, проверьте ваши файлы перед загрузкой.';
