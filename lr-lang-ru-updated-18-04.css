@@ -105,6 +105,6 @@
 				--l10n-some-files-were-not-uploaded: 'некоторые файлы не были загружены.';
 				--border-radius-frame: 0;
 				--clr-background: var(--transparent);
-				--border-dashed: 1px dashed var(--tc-black);
+				--border-dashed: 0.02rem dashed var(--tc-black);
 				--clr-txt-light: var(--tc-black);
         }
