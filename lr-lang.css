@@ -106,4 +106,5 @@
 				--clr-border-radius: 0;
 				--clr-background: var(--transparent);
 				--border-dashed: 1px dashed var(--tc-black);
+				--clr-txt-light: var(--tc-black);
         }
